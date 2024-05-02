@@ -1,0 +1,8 @@
+# React + Vite
+
+mkdir server
+npm init-y
+npm init #
+npm i express cors
+npm i nodemon -D
+npm create vite@latest client
